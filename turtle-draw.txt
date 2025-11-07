@@ -1,0 +1,49 @@
+# --- Turtle Shell (green circle-like polygon) ---
+green -50 0
+green -40 40
+green 0 60
+green 40 40
+green 50 0
+green 40 -40
+green 0 -60
+green -40 -40
+green -50 0
+stop
+
+# --- Head (brown) ---
+brown 0 60
+brown 0 90
+brown -10 100
+brown 10 100
+brown 0 90
+stop
+
+# --- Front Left Leg (black) ---
+black -40 40
+black -60 60
+black -50 40
+stop
+
+# --- Front Right Leg (black) ---
+black 40 40
+black 60 60
+black 50 40
+stop
+
+# --- Back Left Leg (black) ---
+black -40 -40
+black -60 -60
+black -50 -40
+stop
+
+# --- Back Right Leg (black) ---
+black 40 -40
+black 60 -60
+black 50 -40
+stop
+
+# --- Tail (green) ---
+green 0 -60
+green 0 -80
+green 0 -60
+stop
