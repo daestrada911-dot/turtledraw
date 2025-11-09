@@ -2,7 +2,8 @@
 
 ### Author
 **Diego Estrada**
-
+### Credit to
+**Eric Pogue and ChatGpt**
 ### Overview
 TurtleDraw_de.py reads commands from a text file (`turtle-draw.txt`) and uses Python’s Turtle Graphics to draw colorful paths and shapes.  
 It calculates total distance traveled and prints it at the bottom right of the screen.
